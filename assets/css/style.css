@@ -17,3 +17,8 @@ body {
     font-size: 200%;
     margin-left: 55px;
 }
+
+#navmenu {
+    font-size: 100%;
+    letter-spacing: 2px;
+}
