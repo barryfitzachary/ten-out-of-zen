@@ -12,15 +12,17 @@ body {
     color: grey;
 }
 
-h1, h2, h3 {
+h1, h2 {
     font-family: Gafata, sans-serif;
+    text-transform: uppercase;
+    color: aquamarine;
 }
 
 #company {
     float: left;
-    background-image: url('../images/logo.png');
     font-size: 200%;
-    margin-left: 55px;
+    margin-left: 30px;
+    padding-bottom: 50px;
 }
 
 #navmenu {
@@ -31,7 +33,7 @@ h1, h2, h3 {
 #navmenu li {
     float: right;
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 30px;
 }
 
 #navmenu, #company {
@@ -49,5 +51,5 @@ h1, h2, h3 {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url('../images/a-drop.jpg')no-repeat center center;
+    background: url('../images/meditate.jpg')no-repeat center center;
 }
