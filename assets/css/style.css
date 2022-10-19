@@ -53,3 +53,22 @@ h1, h2 {
     width: 100%;
     background: url('../images/meditate.jpg')no-repeat center center;
 }
+
+/* mind */
+
+#mind {
+    float:right;
+    width: 100%;
+}
+
+#mind-about {
+    float:left;
+    width: 100%;
+    margin: 30px;
+}
+
+#body-about {
+    float:right;
+    width: 100%;
+    margin:30px;
+}
